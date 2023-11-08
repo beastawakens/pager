@@ -1,0 +1,25 @@
+{
+    "name": "pager",
+    "version": "0.0.1",
+    "description": "A better Slack bot for Intercom",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "@slack/bolt": "^1.6.0"
+    },
+    "engines": {
+      "node": "11.x"
+    },
+    "repository": {
+      "url": "https://github.com/beastawakens/pager"
+    },
+    "license": "Mozilla Public License",
+    "keywords": [
+      "node",
+      "intercom",
+      "slack",
+      "express"
+    ]
+  }
